@@ -1,2 +1,2 @@
 # Test-
-This is a test for leart to work with GitHub
+This repository will collect all pdf and .m files for wind circulation.
